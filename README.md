@@ -85,7 +85,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 本地 PyPI 仓库服务和代理。
 
 *   warehouse：下一代 PyPI。[官网](https://github.com/pypa/warehouse)
-    *   Warehouse：PyPA 提供的 PyPI 镜像工具。[官网](https://warehouse.python.org/) [bandersnatch](https://bitbucket.org/pypa/bandersnatch)
+    *   Warehouse：[预览](https://pypi.org/)
+*   bandersnatch：PyPA 提供的 PyPI 镜像工具。[官网](https://bitbucket.org/pypa/bandersnatch)
 *   devpi：PyPI 服务和打包/测试/分发工具。[官网](http://doc.devpi.net/)
 *   localshop：本地 PyPI 服务（自定义包并且自动对 PyPI 镜像）。[官网](https://github.com/mvantellingen/localshop)
 
@@ -225,6 +226,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   MkDocs：对 Markdown 友好的文档生成器。[官网](http://www.mkdocs.org/)
 *   pdoc：一个可以替换Epydoc 的库，可以自动生成 Python 库的 API 文档。[官网](https://github.com/BurntSushi/pdoc)
 *   Pycco：文学编程（literate-programming）风格的文档生成器。[官网](https://github.com/pycco-docs/pycco)
+*   readthedocs：一个基于 Sphinx/MkDocs 的在线文档托管系统，对开源项目免费开放使用。[官网](https://github.com/rtfd/readthedocs.org/)
 
 ### 配置
 
@@ -1136,6 +1138,11 @@ Python 实现的算法和设计模式。
 ## 服务
 
 在线工具和简化开发的 API 。
+
+### 金融数据
+
+* Tushare ：一个可以提供免费股票、基金、期货、港股等金融数据的Python开源数据。[官网](http://tushare.org)
+* Ta-Lib ：金融数据技术分析库，可以依据原始金融数据计算各种技术指标,计算性能比较优异。[官网](https://www.ta-lib.org/)
 
 ### 持续集成
 
